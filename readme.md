@@ -3,9 +3,9 @@ I'll cross-check your calculations and ensure that the **final table** aligns pe
 ---
 
 ## Evening Snack Meal:
-✔ Banana (1 large) – 105 kcal, 1.5g protein, 27g carbs, 0.3g fat, 450mg potassium, 1mg iron
-✔ Nuts & Seeds (Mixed – Almonds, Cashews, Walnuts, etc.) – 150 kcal, 4g protein, 5g carbs, 7.5g fat, 100mg calcium, 1.5mg iron
-✔ Dates (2 pieces) – 133 kcal, 1g protein, 36g carbs, 0.1g fat, 200mg potassium, 0.3mg iron
+- ✔ Banana (1 large) – 105 kcal, 1.5g protein, 27g carbs, 0.3g fat, 450mg potassium, 1mg iron
+- ✔ Nuts & Seeds (Mixed – Almonds, Cashews, Walnuts, etc.) – 150 kcal, 4g protein, 5g carbs, 7.5g fat, 100mg calcium, 1.5mg iron
+- ✔ Dates (2 pieces) – 133 kcal, 1g protein, 36g carbs, 0.1g fat, 200mg potassium, 0.3mg iron
 
 ### ✅ **Final Daily Nutrition Breakdown** (Verified)
 
